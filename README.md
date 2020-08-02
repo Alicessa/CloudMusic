@@ -1,6 +1,6 @@
 # netcloud
 
-## 这是一个仿网易云音乐的项目目前暂不支持列表播放及登录效果，后续将会有可能加入这些功能，如果这个项目对你一有所帮助请你们点亮星星
+## 这是一个仿网易云音乐的项目目前暂不支持列表播放及登录效果，后续将会有可能加入这些功能，如果这个项目对你一有所帮助请你们点亮星星😁😁😁❤
 ```
 项目开始的操作
 npm install
@@ -19,5 +19,10 @@ npm run build
 
 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 项目预览图片
+
+![Imag ](https://github.com/Alicessa/PPreview/blob/master/Cloudmusic/a.png)
+![Imag ](https://github.com/Alicessa/PPreview/blob/master/Cloudmusic/b.png)
+![Imag ](https://github.com/Alicessa/PPreview/blob/master/Cloudmusic/c.png)
+![Imag ](https://github.com/Alicessa/PPreview/blob/master/Cloudmusic/d.png)
+![Imag ](https://github.com/Alicessa/PPreview/blob/master/Cloudmusic/e.png)
